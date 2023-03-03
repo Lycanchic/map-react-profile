@@ -25,12 +25,13 @@
 // src/App.js
 
 import React from "react";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Navbar from "./components/Navbar";
-import Projects from "./components/Projects";
-import Skills from "./components/Skills";
-//import Testimonials from "./components/Testimonials";
+import About from "./components/about";
+import Contact from "./components/contact";
+import Navbar from "./components/navbar";
+import Projects from "./components/projects";
+import Skills from "./components/skills";
+import footer from "./components/footer";
+import header from "./components/header";
 
 export default function App() {
   return (
@@ -39,8 +40,9 @@ export default function App() {
       <About />
       <Projects />
       <Skills />
-      <Testimonials />
       <Contact />
+      <footer />
+      <header />
     </main>
   );
 }

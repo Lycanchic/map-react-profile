@@ -1,0 +1,33 @@
+{
+  "name": "map-react-profile",
+  "version": "0.1.0",
+  "description": "**My React Profile** is an application built using HTML, CSS, JS, MySQL, Handlebars.js, Sequelize, Json, typescript, insomnia, prettier, bootstrap, express and node.js, mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lycanchic/map-react-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lycanchic/map-react-profile/issues"
+  },
+  "homepage": "https://github.com/Lycanchic/map-react-profile#readme",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "express": "^4.18.2",
+    "pretty": "^2.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.1.1"
+  }
+}
